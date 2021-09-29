@@ -2,9 +2,8 @@
   "name": "webpackinit",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
@@ -16,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Tuvedunyel/webPackInit/issues"
   },
-  "homepage": "https://github.com/Tuvedunyel/webPackInit#readme"
+  "homepage": "https://github.com/Tuvedunyel/webPackInit#readme",
+  "devDependencies": {
+    "webpack": "^5.55.1",
+    "webpack-cli": "^4.8.0"
+  }
 }
