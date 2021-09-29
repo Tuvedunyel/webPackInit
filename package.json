@@ -1,0 +1,20 @@
+{
+  "name": "webpackinit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tuvedunyel/webPackInit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tuvedunyel/webPackInit/issues"
+  },
+  "homepage": "https://github.com/Tuvedunyel/webPackInit#readme"
+}
