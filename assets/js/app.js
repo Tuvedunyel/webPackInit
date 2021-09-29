@@ -1,5 +1,7 @@
-import style from "./../css/main.css";
-// import logo from "./../img/logo.svg";
-var log = require("./log.js");
+import style from "./../scss/main.scss";
+import component from "./component.js";
+import log from "./log";
 
 log("Salut");
+
+document.body.append(component());

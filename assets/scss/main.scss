@@ -1,0 +1,9 @@
+$red: hsl(135 28% 48% / 0.767);
+
+body {
+  background: red;
+
+  h1 {
+    color: $red;
+  }
+}
